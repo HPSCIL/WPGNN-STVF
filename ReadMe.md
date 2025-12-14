@@ -1,6 +1,6 @@
-# A Wind-Guided Spatial-Temporal-Variable Fusion Network for predicting multiple air pollutants
+# A wind physics informed neural network with spatial-temporal-variable fusion for predicting multiple air pollutants
 
-This repo is the implementation of our manuscript entitled A Wind-Guided Spatial-Temporal-Variable Fusion Network for predicting multiple air pollutants. The code is based on Pytorch 1.12.1, and tested on a GeForce RTX 4090 GPU with 24GB memory.
+This repo is the implementation of our manuscript entitled A wind physics informed neural network with spatial-temporal-variable fusion for predicting multiple air pollutants. The code is based on Pytorch 1.12.1, and tested on a GeForce RTX 4090 GPU with 24GB memory.
 
 
 ## The Framework of WG-STVFNet
