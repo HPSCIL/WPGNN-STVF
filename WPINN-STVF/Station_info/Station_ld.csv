@@ -1,0 +1,23 @@
+监测点ID,纬度,经度,SiteType,SiteName,PM2.5
+BL0,51.522287,-0.125848,Urban Background,Camden - Bloomsbury,14.24
+BX1,51.46598327,0.184877127,Suburban,Bexley - Slade Green,10.82
+CD1,51.544219,-0.175284,Kerbside,Camden - Swiss Cottage,15.89
+CD9,51.52770662,-0.129053205,Roadside,Camden - Euston Road,13.52
+CR8,51.410039,-0.127523,Urban Background,Croydon - Norbury Manor,14.52
+CT2,51.51452534,-0.104515626,Kerbside,City of London - Farringdon Street,16.36
+CT3,51.51384718,-0.077765682,Urban Background,City of London - Sir John Cass School,14.09
+GB0,51.4563,0.085606,Roadside,Greenwich and Bexley - Falconwood FDMS,12.59
+GN0,51.490532,0.074003,Roadside,Greenwich - A206 Burrage Grove,12.44
+GN3,51.486957,0.095111,Roadside,Greenwich - Plumstead High Street,12.03
+GR4,51.45258,0.070766,Suburban,Greenwich - Eltham,12.39
+GR9,51.456357,0.040725,Roadside,Greenwich - Westhorne Avenue,11.36
+HR1,51.617327,-0.298775,Urban Background,Harrow - Stanmore,14.06
+HV1,51.52078746,0.205460706,Roadside,Havering - Rainham,11.63
+KC1,51.52104675,-0.21349214,Urban Background,Kensington and Chelsea - North Ken,11.79
+LH0,51.48878,-0.441627,Urban Background,Hillingdon - Harlington,11.95
+LW2,51.474954,-0.039641,Roadside,Lewisham - New Cross,15.31
+MY7,51.52254,-0.15459,Kerbside,Westminster - Marylebone Road FDMS,15.43
+RB7,51.56948433,0.082907475,Urban Background,Redbridge - Ley Street,13.6
+ST5,51.3892869,-0.141661525,Industrial,Sutton - Beddington Lane north,15.38
+TD5,51.42525604,-0.345608291,Suburban,Richmond Upon Thames - Bushy Park,9.98
+TH4,51.51504617,-0.008418493,Roadside,Tower Hamlets - Blackwall,12.96
