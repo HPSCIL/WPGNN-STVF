@@ -29,10 +29,10 @@ The Data provided in this repository are sample data, intended only to demonstra
 
 ## Folder Structure
 We list the code of the major modules as follows:
-- The main function to train/test our model: [click here](./WG-STVFNet/main.py)
-- The source code of our model: [click here](./WG-STVFNet/model.py)
-- Train and test data preporcessing are located at: [click here](./WG-STVFNet/Data_process.py)
-- Metric computations: [click here](./WG-STVFNet/utils.py)
+- The main function to train/test our model: [click here](./WPINN-STVF/main.py)
+- The source code of our model: [click here](./WPINN-STVF/model.py)
+- Train and test data preporcessing are located at: [click here](./WPINN-STVF/Data_process.py)
+- Metric computations: [click here](./WPINN-STVF/utils.py)
 
 ## Arguments
 We introduce some major arguments of our main function here.
