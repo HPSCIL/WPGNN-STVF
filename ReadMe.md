@@ -20,7 +20,9 @@ MSTVFFN uses the following dependencies
 
 - London dataset: The London air quality dataset is obtained from KDD2018_FreshAir (https://github.com/B04902039/KDD2018_FreshAir)
 
-The processed sample data provided in this repository are located in the [click here](./MSTVFFN/Data).
+The processed sample data provided in this repository are located in the [click here](./WPINN-STVF/Datasets).
+
+The latitude and longitude information for the air pollution monitoring stations provided in this repository is located [click here](./WPINN-STVF/Station_info).
 
 The Data provided in this repository are sample data, intended only to demonstrate the code workflow and data format specifications. The sample data are not sufficient for model training. For full experiments, please obtain the complete dataset following the instructions in the related paper or documentation, or prepare your own data in the same format.
 
