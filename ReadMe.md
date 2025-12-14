@@ -5,7 +5,7 @@ This repo is the implementation of our manuscript entitled A Wind-Guided Spatial
 
 ## The Framework of WG-STVFNet
 
-![WG-STVFNet](./Figure/WG-STVFNet.png)
+![WPINN-STVF](./Figure/WPINN-STVF.png)
 
 
 ## Requirements
