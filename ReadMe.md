@@ -16,9 +16,8 @@ MSTVFFN uses the following dependencies
 - CUDA 11.8 or latest version
 
 ## Dataset
-- Beijing dataset: The Beijing multi-site air quality dataset is obtained from Beijing-Multi-Site-Air-Quality-Data-Data-Set (https://github.com/Afkerian/Beijing-Multi-Site-Air-Quality-Data-Data-Set/tree/main)
-
-- London dataset: The London air quality dataset is obtained from KDD2018_FreshAir (https://github.com/B04902039/KDD2018_FreshAir)
+-The Beijing and London air quality and meteorological datasets were compiled from publicly available repositories: the Harvard Dataverse (https://doi.org/10.7910/DVN/USXCAK) and the KDD-2018 FreshAir project (https://github.com/B04902039/KDD2018_FreshAir)
+-The Wuhan dataset was obtained from the Hubei Provincial Research Center for Atmospheric Complex Pollution; these data are not publicly available due to institutional data usage policies but are available from the corresponding author upon reasonable request. 
 
 The processed sample data provided in this repository are located in the [click here](./WPINN-STVF/Datasets).
 
