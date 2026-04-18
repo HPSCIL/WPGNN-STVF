@@ -86,19 +86,23 @@ X,Y= pro_data(data,args)
 # 创建Dataset对象
 dataset = MyDataset(X, Y)
 
-# 计算训练集和测试集的大小
+# Setting the size of the training set, test set and validation set
 train_ratio = 0.6
 val_ration = 0.2
 test_ration = 0.2
-
 train_size = int(len(dataset) * train_ratio)
 val_size = int(len(dataset) * val_ration)
-test_size = len(dataset)-train_size-val_size
+test_size = len(dataset) - train_size - val_size
 
+train_start = 0
+train_end = train_size
+val_end = train_size + val_size
+test_end = len(dataset)  
 
-# 使用random_split划分数据集
-train_dataset,val_dataset, test_dataset = random_split(dataset, [train_size,val_size,test_size])
-#
+train_dataset = Subset(dataset, range(train_start, train_end))
+val_dataset = Subset(dataset, range(train_end, val_end))
+test_dataset = Subset(dataset, range(val_end, test_end))
+
 #
 # 现在你可以使用train_dataset和test_dataset来创建DataLoader
 train_loader = torch.utils.data.DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True)
